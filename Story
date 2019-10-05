@@ -3,3 +3,9 @@ I have no idea what I am doing
 a ha haaa 
 Hello
 okay i think this thing is working 
+
+Print("hello")
+So do we just run our code through a python interpreter? 
+
+Darrens Branch
+So we can try stuff in our own branches before posting to master
