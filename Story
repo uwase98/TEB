@@ -4,4 +4,5 @@ a ha haaa
 Hello
 okay i think this thing is working 
 
-"Print("hello")
+Print("hello")
+So do we just run our code through a python interpreter? 
